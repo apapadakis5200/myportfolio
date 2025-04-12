@@ -46,7 +46,6 @@ This project uses Principal Component Analysis (PCA) to analyze CO₂ emissions 
 - **Prin1** captured total emissions; **Prin2** revealed rising emissions in countries like China and India.
 - China surpassed the U.S. in emissions by over 50% in recent years.
 - The analysis reflects economic trends and raises questions about environmental responsibility.
-![PCA Comparison Chart](assets/images/Proj_2_prin1_prin2_compare.png)
 ---
 
 ## 🧮 Project 3: Numerical Methods — QR Factorization, SVD & Polynomial Approximations
