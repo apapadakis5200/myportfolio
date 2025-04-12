@@ -24,9 +24,6 @@ This project explores the use of the SIR (Susceptible-Infectious-Recovered) mode
 - November 2–15, 2020
 - December 18–31, 2021
 
-### 📈 Results
-Python was used to simulate the SIR model over time and visualize infection curves. Key parameters were estimated using the method of least squares, and matrix analysis provided insight into system stability.
-
 ---
 
 ## 🌍 Project 2: Principal Component Analysis of Global CO₂ Emissions
@@ -50,8 +47,26 @@ This project uses Principal Component Analysis (PCA) to analyze CO₂ emissions 
 - China surpassed the U.S. in emissions by over 50% in recent years.
 - The analysis reflects economic trends and raises questions about environmental responsibility.
 
-### 🌱 Final Thoughts
-This project highlighted the correlation between economic development and environmental degradation. It also opened up discussions about the ethical and financial responsibilities of nations with the highest carbon footprints.
+---
+
+## 🧮 Project 3: Numerical Methods — QR Factorization, SVD & Polynomial Approximations
+
+**Course:** Numerical Matrix Analysis  
+**Tools:** Python, MATLAB, Numerical Algorithms  
+**Topic:** Linear Algebra Applications in Computational Modeling  
+
+### 🔍 Overview
+This project focused on exploring the stability and performance of key numerical linear algebra techniques, such as QR Factorization, Singular Value Decomposition (SVD), and Polynomial Approximations.
+
+### 📌 Key Concepts
+- QR Factorization for solving linear systems and least squares problems
+- Singular Value Decomposition (SVD) for matrix stability and compression
+- Polynomial approximations using Chebyshev and Taylor polynomials
+- Stability analysis for different decomposition methods
+- Application to real-world functions and modeling problems
+
+### 📈 Impact
+The project demonstrated how foundational numerical tools can be applied in solving high-dimensional problems efficiently and with controlled error. It reflects both theoretical understanding and applied computing skills essential in data science and engineering.
 
 ---
 
@@ -59,8 +74,9 @@ This project highlighted the correlation between economic development and enviro
 
 - Data analysis & modeling  
 - Statistical estimation (least squares, PCA)  
+- Numerical computation (SVD, QR, polynomial fitting)  
 - Mathematical derivation & simulation  
-- Python programming  
+- Python and MATLAB programming  
 - Real-world data interpretation  
 - Data visualization  
 - Communication of technical findings  
@@ -72,5 +88,3 @@ This project highlighted the correlation between economic development and enviro
 📧 alexis.papadakis@example.com  
 🔗 [LinkedIn](#)  
 📂 [View My Full Portfolio](#)
-
----
