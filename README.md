@@ -1,54 +1,76 @@
-# Alexis Papadakis — Portfolio Projects
+# 🌟 Alexis Papadakis — Academic Portfolio
 
-Welcome to my portfolio! This repository highlights selected academic projects that showcase my skills in data analysis, mathematical modeling, and programming. These projects were completed as part of my coursework in mathematics, statistics, and data science.
+Welcome to my academic portfolio! This repository showcases selected projects from my undergraduate studies in mathematics and statistics. These projects demonstrate my skills in data analysis, mathematical modeling, and working with real-world datasets to explore timely topics such as public health and climate change.
 
 ---
 
-## 📊 Project 1: Modeling Infectious Disease Spread Using the SIR Model
+## 🦠 Project 1: Modeling Infectious Disease Spread with SIR Models
 
-**Course:** Math 542  
-**Instructor:** Professor Shen  
-**Language/Tools:** Python, Mathematical Modeling, Least Squares Method  
-**Dataset:** COVID-19 data from the Tennessee Department of Health
+**Course:** Math 542 — Mathematical Modeling  
+**Tools:** Python, Mathematical Modeling, Least Squares  
+**Topic:** COVID-19 SIR Model Simulation and Parameter Estimation  
 
-### 🔬 Overview
-This project explores the SIR (Susceptible-Infected-Recovered) model as a tool for understanding infectious disease dynamics. The basic and extended forms of the SIR model were analyzed, with a focus on real-world application to COVID-19 data.
+### 🔍 Overview
+This project explores the use of the SIR (Susceptible-Infectious-Recovered) model to understand infectious disease spread. Using real-world COVID-19 data from Tennessee, I simulated infection rates during key time intervals and estimated parameters using Python.
 
-### 🧮 Key Concepts
-- Formulation of discrete and continuous differential equations.
-- Analysis of the reproduction number \( R_0 = \frac{\beta}{\gamma} \) and its implications.
-- Implementation of parameter estimation via least squares to find β (transmission rate) and γ (recovery rate).
-- Simulation of the SIR model over three key intervals during the COVID-19 pandemic.
+### 📌 Key Concepts
+- Discrete and continuous SIR model derivations
+- Estimation of transmission rate (β) and recovery rate (γ)
+- Simulation and visualization of infection dynamics
+- Linearization around equilibrium points
 
-### 📈 Methods & Analysis
-- Differential equation modeling
-- Matrix linearization around equilibrium points
-- Custom Python scripts to simulate infection dynamics
-- Visualization of predicted vs. real infection rates
+### 🧪 Case Study Intervals
+- March 12–25, 2020
+- November 2–15, 2020
+- December 18–31, 2021
 
-### 📷 Sample Outputs
-Plots and computed matrices show changes in infection rates across three key time intervals:
-- **March 12–25, 2020**
-- **November 2–15, 2020**
-- **December 18–31, 2021**
+### 📈 Results
+Python was used to simulate the SIR model over time and visualize infection curves. Key parameters were estimated using the method of least squares, and matrix analysis provided insight into system stability.
+
+---
+
+## 🌍 Project 2: Principal Component Analysis of Global CO₂ Emissions
+
+**Course:** Stat 520 — Multivariate Statistics  
+**Tools:** PCA, Correlation Matrix, Eigenvalue Analysis  
+**Topic:** Identifying Major Global Contributors to CO₂ Emissions  
+
+### 🔍 Overview
+This project uses Principal Component Analysis (PCA) to analyze CO₂ emissions data from 1990 to 2021. The goal was to identify dominant trends and major contributors to global pollution using data from the EDGAR database.
+
+### 📌 Key Concepts
+- Dimensionality reduction via PCA
+- Interpretation of eigenvalues and loading vectors
+- Emissions trend comparison across major economies
+- Environmental policy implications
+
+### 📊 Findings
+- The **first two principal components explain ~99%** of the variation.
+- **Prin1** captured total emissions; **Prin2** revealed rising emissions in countries like China and India.
+- China surpassed the U.S. in emissions by over 50% in recent years.
+- The analysis reflects economic trends and raises questions about environmental responsibility.
+
+### 🌱 Final Thoughts
+This project highlighted the correlation between economic development and environmental degradation. It also opened up discussions about the ethical and financial responsibilities of nations with the highest carbon footprints.
 
 ---
 
 ## 🧠 Skills Demonstrated
-- Mathematical modeling
-- Statistical estimation (least squares)
-- Epidemiological analysis
-- Python programming
-- Data visualization and interpretation
 
----
-
-## 📂 Additional Projects
-
-More projects will be added here soon!
+- Data analysis & modeling  
+- Statistical estimation (least squares, PCA)  
+- Mathematical derivation & simulation  
+- Python programming  
+- Real-world data interpretation  
+- Data visualization  
+- Communication of technical findings  
 
 ---
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](#) or reach out via email at alexis.papadakis@example.com.
+📧 alexis.papadakis@example.com  
+🔗 [LinkedIn](#)  
+📂 [View My Full Portfolio](#)
+
+---
