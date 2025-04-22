@@ -53,7 +53,7 @@ Susceptible -> Infected -> Recovered​
 - Extension of the basic SIR model to incorporate births and deaths​
 - Introduces  new variable, μ, that represents the birth rate​
 
-![SIR Model Diagram](assets/images/SIR_Model.jpg)
+![SIR Model Diagram](assets/images/SIR_Model.png)
 ![SIRS Model Diagram](assets/images/SIRS_Model.jpg)
 
 ### 🧪 Case Study Intervals 
