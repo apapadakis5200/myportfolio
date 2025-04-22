@@ -36,6 +36,13 @@ Susceptible -> Infected -> Recovered​
 
 ![Rate of Change Diagram](assets/images/Rate_of_change.jpg)
 
+###Dynamics of the SIR Model
+- Transmission and Recovery Rates influence the interactions between compartments​
+- The basic reproduction ratio, R0, which is equivalent to (β /γ) , can be used to find the expected number of new infections from a single infection.​
+- When R₀>1, it indicates that, on average, each infected individual is capable of transmitting the infection to more than one other person. This means the higher the R₀ values, the more infectious the disease.​
+
+![Basic Reproduction Number Multiplicity](assets/images/R0_multiplicity.jpg)
+
 ### 🧪 Case Study Intervals 
 - March 12–25, 2020
 - November 2–15, 2020
