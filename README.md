@@ -21,17 +21,22 @@ This project explores the use of the SIR (Susceptible-Infectious-Recovered) mode
 ![SIR Model (R₀ = 10)](assets/images/SIR_R_0_10.jpg)
 
 ### Three Components
--Susceptible (S): Individuals who are not infected but are at risk of contracting the disease.​
--Infectious (I): Individuals who are currently infected and can transmit the disease to others.​
--Recovered (R): Individuals who have recovered from the disease and are assumed to have gained immunity.​
+- Susceptible (S): Individuals who are not infected but are at risk of contracting the disease.​
+- Infectious (I): Individuals who are currently infected and can transmit the disease to others.​
+- Recovered (R): Individuals who have recovered from the disease and are assumed to have gained immunity.​
 
 Also notice the flow of the three components in the SIR model.
 Susceptible -> Infected -> Recovered​
 
 ![SIR Model Flow Diagram](assets/images/SIR_model_flow.jpg)
-​
 
-### 🧪 Case Study Intervals (β) (γ)
+### Mathematical Formulation 
+- β(beta): Transmission rate, representing the likelihood of disease transmission from an infected to a susceptible individual.​
+- (γ)(gamma): Recovery rate, indicating the rate at which infected individuals recover and move to the recovered compartment.
+
+![Rate of Change Diagram](assets/images/Rate_of_change.jpg)
+
+### 🧪 Case Study Intervals 
 - March 12–25, 2020
 - November 2–15, 2020
 - December 18–31, 2021
