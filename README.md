@@ -1,5 +1,3 @@
-# 🌟 Alexis Papadakis — Academic Portfolio
-
 Welcome to my academic portfolio! This repository showcases selected projects from my undergraduate studies in mathematics and statistics. These projects demonstrate my skills in data analysis, mathematical modeling, and working with real-world datasets to explore timely topics such as public health and climate change.
 
 ---
@@ -13,13 +11,27 @@ Welcome to my academic portfolio! This repository showcases selected projects fr
 ### 🔍 Overview
 This project explores the use of the SIR (Susceptible-Infectious-Recovered) model to understand infectious disease spread. Using real-world COVID-19 data from Tennessee, I simulated infection rates during key time intervals and estimated parameters using Python.
 
-### 📌 Key Concepts
-- Discrete and continuous SIR model derivations
-- Estimation of transmission rate (β) and recovery rate (γ)
-- Simulation and visualization of infection dynamics
-- Linearization around equilibrium points
+### 📌 Table of Contents
+- SIR Model Overview
+- Mathematical Formulation
+- Dynamics and Assuption of the model
+- Extensions of the SIR Model (e.g. SIRS model)
+- Case Study : Tenessee Covid 19
 
-### 🧪 Case Study Intervals
+![SIR Model (R₀ = 10)](assets/images/SIR_R_0_10.jpg)
+
+### Three Components
+-Susceptible (S): Individuals who are not infected but are at risk of contracting the disease.​
+-Infectious (I): Individuals who are currently infected and can transmit the disease to others.​
+-Recovered (R): Individuals who have recovered from the disease and are assumed to have gained immunity.​
+
+Also notice the flow of the three components in the SIR model.
+Susceptible -> Infected -> Recovered​
+
+![SIR Model Flow Diagram](assets/images/SIR_model_flow.jpg)
+​
+
+### 🧪 Case Study Intervals (β) (γ)
 - March 12–25, 2020
 - November 2–15, 2020
 - December 18–31, 2021
